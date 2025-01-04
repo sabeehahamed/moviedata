@@ -1,0 +1,394 @@
+{
+  "movies": [
+    {
+      "title": "The Shawshank Redemption",
+      "imageUrl":"https://imgs.search.brave.com/p2MKmTgcQJ6DbSkVOVXHSPyOVxCQB-I_V4U6E4DMlsM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFNTVR0d1ZKcUwu/anBn",
+      "recommendations": ["The Godfather", "The Dark Knight", "Pulp Fiction"]
+    },
+    {
+      "title": "The Godfather",
+      "imageUrl":"https://imgs.search.brave.com/28093s2xyMwF_Q4dElDO08s-cyuR06fcJIulonS2Tek/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzdkLzFm/LzU4LzdkMWY1ODk2/Nzk5ODQ1NmFiNmMx/YjgwYzU2Y2EwNTAz/LmpwZw",
+      "recommendations": ["The Shawshank Redemption", "Pulp Fiction", "Forrest Gump"]
+    },
+    {
+      "title": "The Dark Knight",
+      "imageUrl":"https://imgs.search.brave.com/w4s-Y69uwePCFWHB0qKu1N79ujllOIGN5R3-3t8QDG8/rs:fit:860:0:0:0/g:ce/aHR0cDovL3d3dy5p/bXBhd2FyZHMuY29t/LzIwMDgvcG9zdGVy/cy9kYXJrX2tuaWdo/dC5qcGc",
+      "recommendations": ["The Shawshank Redemption", "The Godfather", "Inception"]
+    },
+    {
+      "title": "Pulp Fiction",
+      "imageUrl":"https://imgs.search.brave.com/WYn6EV0J7uPSOV2fgNSwxJZ25idt3ScZNM1uYrNo0PA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFOWkVxRlRxN0wu/anBn",
+      "recommendations": ["The Shawshank Redemption", "The Dark Knight", "Fight Club"]
+    },
+    {
+      "title": "Forrest Gump",
+      "imageUrl":"https://imgs.search.brave.com/2RLdL-d_IqtCPI8OBv7FsMK3RIclfxo-xChDxQCu2L8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2YxLzZl/LzFlL2YxNmUxZWIw/MWJhZWZkMGQ0NjEz/YjdlZmVhZDg1YWNm/LmpwZw",
+      "recommendations": ["The Shawshank Redemption", "The Matrix", "The Godfather"]
+    },
+    {
+      "title": "Inception",
+      "imageUrl":"https://imgs.search.brave.com/RVWiCbQyXi8zcLhmVPc_ggsmae4ocdIf2FoWXTpvg_8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzF1S00rTGRnRkwu/anBn",
+      "recommendations": ["The Matrix", "Interstellar", "The Dark Knight"]
+    },
+    {
+      "title": "The Matrix",
+      "imageUrl":"https://imgs.search.brave.com/jQ2wQIJtY7i7K_6o_HXgLdC6kmELDtrEiBVZuxe6i7Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFrTndCZEc4cEwu/anBn",
+      "recommendations": ["Inception", "The Dark Knight", "Interstellar"]
+    },
+    {
+      "title": "Fight Club",
+      "imageUrl":"https://imgs.search.brave.com/TMWi3Dw0QFF02y92Soj0ifEMsdhn6x7RFZ2RQ_iqPuc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFiRFhXSHRmMUwu/anBn",
+      "recommendations": ["Pulp Fiction", "The Dark Knight", "American History X"]
+    },
+    {
+      "title": "Interstellar",
+      "imageUrl":"https://imgs.search.brave.com/c3qcBy3lVLFDaYHww5t62YI2Emxe7kPRo7Y3Pfz6IYE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/b3JpZ2luYWxmaWxt/YXJ0LmNvbS9jZG4v/c2hvcC9wcm9kdWN0/cy9pbnRlcnN0ZWxs/YXJfMjAxNF9hZHZh/bmNlX29yaWdpbmFs/X2ZpbG1fYXJ0XzY4/Mjg1MmYyLTIzZjYt/NDZkZS1hMWRiLTQw/MjlkNWI2ZjBiNC5q/cGc_dj0xNTc0Mjg0/MDEwJndpZHRoPTEy/MDA",
+      "recommendations": ["Inception", "The Martian", "Gravity"]
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "imageUrl":"https://imgs.search.brave.com/YnzgISZAGy2mM3H50oF-BXGFtP-kYqGPhD-of4VPXZg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzc4L2Q0/LzZiLzc4ZDQ2YjE3/Yzc0NWZlZmMxYzBj/ZWU2NWVlNmMwMTk0/LmpwZw",
+      "recommendations": ["The Two Towers", "The Return of the King", "Harry Potter and the Sorcerer's Stone"]
+    },
+    {
+      "title": "The Lion King",
+      "imageUrl":"https://imgs.search.brave.com/eoyujgoUNhAwoq9aGg0oBkuo-zZLP62YVclIm3ATWT0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFkUFk5cE5kVUwu/anBn",
+      "recommendations": ["Aladdin", "Beauty and the Beast", "Mulan"]
+    },
+    {
+      "title": "Gladiator",
+      "imageUrl":"https://imgs.search.brave.com/fKoi85jbeo7yk3o-5hIatRY_oED7S-iXOmnPd0VhVOQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/ODFqTGJMUlpVbUwu/anBn",
+      "recommendations": ["Braveheart", "300", "Spartacus"]
+    },
+    {
+      "title": "Avengers: Endgame",
+      "imageUrl":"https://imgs.search.brave.com/Yn6t2MeOeV42XI2FSoq-L1bflPRQ4mQmr7pFT7Sm5Bc/rs:fit:860:0:0:0/g:ce/aHR0cDovL3d3dy5p/bXBhd2FyZHMuY29t/LzIwMTkvcG9zdGVy/cy9hdmVuZ2Vyc19l/bmRnYW1lX3ZlcjIu/anBn",
+      "recommendations": ["Avengers: Infinity War", "Iron Man", "Captain America: Civil War"]
+    },
+    {
+      "title": "Titanic",
+      "imageUrl":"https://imgs.search.brave.com/L93OGOPGRLV0qRtSfyJd5P9Mb8z4nOC_YbsDlJZn7Ec/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2Q3Lzgz/LzExL2Q3ODMxMTA1/MzliZTY1NThhNmQx/YWZiYWQzZjg0OTdi/LmpwZw",
+      "recommendations": ["The Notebook", "Romeo + Juliet", "La La Land"]
+    },
+    {
+      "title": "Schindler's List",
+      "imageUrl":"https://imgs.search.brave.com/txdWGvvTOU6-wXISaaZMJboWpVg1bFjyWZH457JOwWY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tb3Zp/ZXMudW5pdmVyc2Fs/cGljdHVyZXMuY29t/L21lZGlhL3Bvc3Rl/ci01YmYzNTQ5YmQ0/MzI0LTEtNWQzNzg5/NGZlMzllZi0xLmpw/Zw",
+      "recommendations": ["The Pianist", "The Boy in the Striped Pajamas", "Life is Beautiful"]
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "imageUrl":"https://imgs.search.brave.com/l2AImApRWieA1T8PaMO0Edyxd5RynSHsGo7dzsGt5Z0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/OTFHRndnV0xOU0wu/anBn",
+      "recommendations": ["Seven", "Zodiac", "Psycho"]
+    },
+    {
+      "title": "The Green Mile",
+      "imageUrl":"https://imgs.search.brave.com/nBGdj9aie4XMuPSa3qbErkHp4jZtFrKGbDd05ol2Wb8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDM1Mzg0/ODIuanBn",
+      "recommendations": ["Shawshank Redemption", "The Pursuit of Happyness", "Forrest Gump"]
+    },
+    {
+      "title": "Star Wars: A New Hope",
+      "imageUrl":"https://imgs.search.brave.com/Oal6T-JfbMVgca0nWn71zXPr0CiZAM8ojIPaCxRhEJo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZXVyb3Bvc3RlcnMu/ZXUvaW1hZ2UvNzUw/L3Bvc3RlcnMvc3Rh/ci13YXJzLWVwaXNv/ZGUtaXYtYS1uZXct/aG9wZS1pOTAyMTgu/anBn",
+      "recommendations": ["The Empire Strikes Back", "Return of the Jedi", "Star Wars: The Force Awakens"]
+    },
+    {
+      "title": "Jurassic Park",
+      "imageUrl":"https://imgs.search.brave.com/WhERl5LIr-qXJsnD85hvLASexAl1lgvS4FSrYK3FXTA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFRRHI3YUtYVkwu/anBn",
+      "recommendations": ["The Lost World: Jurassic Park", "Jurassic World", "King Kong"]
+    },
+    {
+      "title": "The Avengers",
+      "imageUrl":"https://imgs.search.brave.com/CdYJXoIGAExii6e8Bs-0hiOXcx4oCAS111T4gDZjLNA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2VhL2E3/LzI2L2VhYTcyNjE3/NWRlNmMzMzAwYWQx/M2Q5YmI3NDAyYWVj/LmpwZw",
+      "recommendations": ["Iron Man", "Captain America: The Winter Soldier", "Thor"]
+    },
+    {
+      "title": "The Prestige",
+      "imageUrl":"https://imgs.search.brave.com/Qv1lW5PJpUnifyfRomzeKXDjupNJ63GymF4qYIk_YP4/rs:fit:860:0:0:0/g:ce/aHR0cDovL3d3dy5p/bXBhd2FyZHMuY29t/LzIwMDYvcG9zdGVy/cy9wcmVzdGlnZV92/ZXIzLmpwZw",
+      "recommendations": ["The Illusionist", "Inception", "Memento"]
+    },
+    {
+      "title": "The Departed",
+      "imageUrl":"https://imgs.search.brave.com/kOVulTGypF6Fz7MZq5iXJqFhGZt8aa1T_sW9jTI4nkc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTErK0xPc29tVEwu/anBn",
+      "recommendations": ["Goodfellas", "Casino", "Donnie Brasco"]
+    },
+    {
+      "title": "The Dark Knight Rises",
+      "imageUrl":"https://imgs.search.brave.com/20BLE8e3nJdFaHrgYxz0PAdHiFe4SleU1McvJGWsXgk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzEwSVptQWhBWUwu/anBn",
+      "recommendations": ["The Dark Knight", "Batman Begins", "The Avengers"]
+    },
+    {
+      "title": "The Social Network",
+      "imageUrl":"https://imgs.search.brave.com/MWY22ut4Zb63CdTRjks7llmxYLAAdzoWXmGFPeW_suE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2Y2Lzg4/LzZiL2Y2ODg2YmNj/ZmQ0MmQzMTdhY2Iz/YzgxOTE2ZDUyN2I5/LmpwZw",
+      "recommendations": ["Steve Jobs", "The Founder", "Moneyball"]
+    },
+    {
+      "title": "Blade Runner 2049",
+      "imageUrl":"https://imgs.search.brave.com/Iy-IQIHO7-ASMpftx2t9x3423tDwTgOuXOColL03yjE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzUxTTZJWEpvRCtM/LmpwZw",
+      "recommendations": ["Blade Runner", "Ex Machina", "Arrival"]
+    },
+    {
+      "title": "The Truman Show",
+      "imageUrl":"https://imgs.search.brave.com/ne8gn8wVnKgUpqAVf0pY6jiqKJMnQhnwZVuKrqFddLs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFYWkJWSlE5cEwu/anBn",
+      "recommendations": ["Eternal Sunshine of the Spotless Mind", "Inception", "The Matrix"]
+    },
+    {
+      "title": "The Grand Budapest Hotel",
+      "imageUrl":"https://imgs.search.brave.com/sx_TmVuSS6LpesxPs77sYZGtVxWmPzS7kFqum_UDsXk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2I3Lzlk/LzVjL2I3OWQ1YzVh/ZWMxOTM5MTU0Njc2/NGMyOGZkNjYxMjM1/LmpwZw",
+      "recommendations": ["Moonrise Kingdom", "The Royal Tenenbaums", "Fantastic Mr. Fox"]
+    },
+    {
+      "title": "The Matrix Reloaded",
+      "imageUrl":"https://imgs.search.brave.com/q6TxW145tlEHqjJ2MmiAWqkRm19DoS7YnmlIoQ9GdjM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTErLUhjcjQtV0wu/anBn",
+      "recommendations": ["The Matrix Revolutions", "Inception", "Equilibrium"]
+    },
+    {
+      "title": "Mad Max: Fury Road",
+      "imageUrl":"https://imgs.search.brave.com/JkZdUDNAg61_VHqF8LwXI9-0oy21jhjHwMJtQ3Ztkig/rs:fit:860:0:0:0/g:ce/aHR0cDovL3d3dy5p/bXBhd2FyZHMuY29t/L2ludGwvYXVzdHJh/bGlhLzIwMTUvcG9z/dGVycy9tYWRfbWF4/X2Z1cnlfcm9hZF92/ZXIxMS5qcGc",
+      "recommendations": ["Children of Men", "The Road", "Snowpiercer"]
+    },
+    {
+      "title": "The Big Lebowski",
+      "imageUrl":"https://imgs.search.brave.com/ku_q0M8IgAN_fpqVKBTI0EmVuUlyXXVPhJjYzDzGeos/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFadFlpWWwrd0wu/anBn",
+      "recommendations": ["No Country for Old Men", "Fargo", "Pulp Fiction"]
+    },
+    {
+      "title": "Her",
+      "imageUrl":"https://imgs.search.brave.com/DDkuCUd1HYMr6_ODMg5LxpIhjHP5n3gfSzJAwvkUGEo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/Y2luZW1hdGVyaWFs/LmNvbS9wLzI5N3gv/Z3ZoazE1ZmYvaGVy/LW1vdmllLXBvc3Rl/ci1tZC5qcGc_dj0x/NDU2MDY1MzI1",
+      "recommendations": ["Ex Machina", "A.I. Artificial Intelligence", "Eternal Sunshine of the Spotless Mind"]
+    },
+    {
+      "title": "The Revenant",
+      "imageUrl":"https://imgs.search.brave.com/p68vOVmtpcQINB9rV-XQOcMpktKqBigKRlcjpnPe8Ss/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/Y2luZW1hdGVyaWFs/LmNvbS9wLzI5N3gv/ZHdsbWZmeXcvdGhl/LXJldmVuYW50LXRo/ZWF0cmljYWwtbW92/aWUtcG9zdGVyLW1k/LmpwZz92PTE0OTgx/Njk4ODI",
+      "recommendations": ["The Hateful Eight", "No Country for Old Men", "12 Years a Slave"]
+    },
+    {
+      "title": "The Shining",
+      "imageUrl":"https://imgs.search.brave.com/TM26i0ic6vhB_9D88xN5xHnw-A2yfwyLMoDvOdEOitg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFvSjl1cnc0ckwu/anBn",
+      "recommendations": ["Psycho", "The Sixth Sense", "It Follows"]
+    },
+    {
+      "title": "The Hunger Games",
+      "imageUrl":"https://imgs.search.brave.com/96nw1Bpgcn0gGvIk-pqp1hLReC1Lv-ph5_sOi1AA638/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/dXBkYXRlZC1tb3Zp/ZS1wb3N0ZXJzLXYw/LXl1eGpzazFzdnM0/YzEuanBnP3dpZHRo/PTY0MCZjcm9wPXNt/YXJ0JmF1dG89d2Vi/cCZzPWFmNmE0YWE4/N2RkNTQ1ZWZkNTdl/NjNmODNhOWYyYTEz/MWQwMmM1NGI",
+      "recommendations": ["Divergent", "Maze Runner", "Battle Royale"]
+    },
+    {
+      "title": "Gone Girl",
+      "imageUrl":"https://imgs.search.brave.com/vkfsXAaT2tIFBtUJX-MF9xAdf7YRJtZ_2T6VMlDhPaY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDEzcmM0M0lXYUwu/anBn",
+      "recommendations": ["Prisoners", "Zodiac", "Mystic River"]
+    },
+    {
+      "title": "The Wolf of Wall Street",
+      "imageUrl":"https://imgs.search.brave.com/yjOhkR1ErN-f1E6oB0wlYpfAsyAyoFLFQi1bm23BZZI/rs:fit:860:0:0:0/g:ce/aHR0cDovL3d3dy5p/bXBhd2FyZHMuY29t/LzIwMTMvcG9zdGVy/cy93b2xmX29mX3dh/bGxfc3RyZWV0X3Zl/cjMuanBn",
+      "recommendations": ["American Psycho", "Scarface", "The Social Network"]
+    },
+    {
+      "title": "The Pursuit of Happyness",
+      "imageUrl":"https://imgs.search.brave.com/GRQ_1ZiOuKLWIMTyaWq95l3AzU8n54EiHQXw0ofchPw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFBb2lzVk4xNkwu/anBn",
+      "recommendations": ["Forrest Gump", "The Blind Side", "A Beautiful Mind"]
+    },
+    {
+      "title": "A Clockwork Orange",
+      "imageUrl":"https://imgs.search.brave.com/zqb_PKmso9soTaL6y-5azKRPEPY4nWKrz6Gb6EAbVdE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/Y2luZW1hdGVyaWFs/LmNvbS9wLzI5N3gv/aTJtY2FyenQvYS1j/bG9ja3dvcmstb3Jh/bmdlLW1vdmllLXBv/c3Rlci1tZC5qcGc_/dg",
+      "recommendations": ["Fight Club", "American Psycho", "The Machinist"]
+    },
+    {
+      "title": "Fight Club",
+      "imageUrl":"https://imgs.search.brave.com/TMWi3Dw0QFF02y92Soj0ifEMsdhn6x7RFZ2RQ_iqPuc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFiRFhXSHRmMUwu/anBn",
+      "recommendations": ["American History X", "Requiem for a Dream", "Trainspotting"]
+    },
+    {
+      "title": "The Princess Bride",
+      "imageUrl":"https://imgs.search.brave.com/BnNl2mpz5hyN8mUO-uKLcKN-6CwDWzu62CIdi_hQ0Uc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9maWxt/YXJ0Z2FsbGVyeS5j/b20vY2RuL3Nob3Av/ZmlsZXMvVGhlLVBy/aW5jZXNzLUJyaWRl/LVZpbnRhZ2UtTW92/aWUtUG9zdGVyLU9y/aWdpbmFsLTEtU2hl/ZXQtMjd4NDEtNjI3/OF9kYjkyMjVjMi0w/YjY0LTQ4NjYtYjZj/Yy1jMmIxNjk2OGIw/ZjQuanBnP3Y9MTcy/MTA4NzIyOSZ3aWR0/aD0xMjAw",
+      "recommendations": ["The Goonies", "Labyrinth", "The Dark Crystal"]
+    },
+    {
+      "title": "The Fifth Element",
+      "imageUrl":"https://imgs.search.brave.com/NKtWcLFpX-HIKRoSA00XoU8V9hmgI-cP0IpIzg47XuE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzViL2Y2/L2MzLzViZjZjM2Mz/ZWRjYzE1MWE3ZDM3/NGMwNTk4YWRhY2Ex/LmpwZw",
+      "recommendations": ["Blade Runner", "Star Wars", "The Matrix"]
+    },
+    {
+      "title": "The Incredibles",
+      "imageUrl":"https://imgs.search.brave.com/RWzHSmNbRymc-NLPo50T3baankCViL7-by4bX7VuAEc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFXVUorbm9uSkwu/anBn",
+      "recommendations": ["Spider-Man: Into the Spider-Verse", "Big Hero 6", "Shrek"]
+    },
+    {
+      "title": "Memento",
+      "imageUrl":"https://imgs.search.brave.com/cX6v2hZbzM7D5wyVizqD-rqBcu13MHtjXT_L8pjWh7M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzliLzNm/LzI0LzliM2YyNDQ4/YzM1NDNhZWYwYjE1/ZmQ1YTRmNzM4MWUy/LmpwZw",
+      "recommendations": ["The Prestige", "Inception", "Shutter Island"]
+    },
+    {
+      "title": "Star Wars: The Empire Strikes Back",
+      "imageUrl":"https://imgs.search.brave.com/xR0CpNc9uXFoLkE_3O2hZHOMPJ_6_SPO-1izA_2oQwo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L25ld3MvNDgwL2Nw/c3Byb2RwYi83RkJB/L3Byb2R1Y3Rpb24v/XzEyOTQ4OTYyM19l/bXBpcmUtcXVhZC5q/cGcud2VicA",
+      "recommendations": ["Return of the Jedi", "A New Hope", "Rogue One"]
+    },
+    {
+      "title": "Shutter Island",
+      "imageUrl":"https://imgs.search.brave.com/V-x6g6Hww_6HLQHxPO2lyGNyxS1sVUlvAhd6mCOgUeg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9maWxt/YXJ0Z2FsbGVyeS5j/b20vY2RuL3Nob3Av/ZmlsZXMvU2h1dHRl/ci1Jc2xhbmQtVmlu/dGFnZS1Nb3ZpZS1Q/b3N0ZXItT3JpZ2lu/YWwtMS1TaGVldC0y/N3g0MV9jNjA2NGEx/MC1lYzFhLTQxNzIt/YjgyZS1lYmZhMmNh/MDk2NTcuanBnP3Y9/MTcwODYzMjM3MiZ3/aWR0aD0xMjAw",
+      "recommendations": ["Inception", "The Sixth Sense", "Gone Girl"]
+    },
+    {
+      "title": "The Secret Life of Walter Mitty",
+      "imageUrl":"https://imgs.search.brave.com/W7NfLo_6iBfj0G2Tunz6QOK21w02PaBehjy9gAkHWpo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMxLm1vdmlld2Vi/aW1hZ2VzLmNvbS93/b3JkcHJlc3Mvd3At/Y29udGVudC91cGxv/YWRzL3Bob3RvL01M/STJiMllsbGJQWVpD/bTBaNjF0dktKYnVo/ajRjWS5qcGc",
+      "recommendations": ["Into the Wild", "The Way Way Back", "A Beautiful Mind"]
+    },
+    {
+      "title": "The Big Short",
+      "imageUrl":"https://imgs.search.brave.com/vWTT2SnsMJrg3ElhT97yR2zB4ZasCvWYoNIVnwTNmUo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9leHRl/cm5hbC1wcmV2aWV3/LnJlZGQuaXQvUmFV/aDl3RVpvOWx5VDJP/WHdPUXQ1NVdvZi1U/anZzZGlIc05xOFJn/bkZpNC5qcGc_YXV0/bz13ZWJwJnM9NjJm/ZjEzYjZjZDZmZmJi/ZTc1ZDY0MjUzOTIz/ODNlYWY2MWZlYjhm/Mw",
+      "recommendations": ["Margin Call", "Inside Job", "The Wolf of Wall Street"]
+    },
+    {
+      "title": "Whiplash",
+      "imageUrl":"https://imgs.search.brave.com/m87McLGhcPc21YwAX5keK3_F8yJ2rD14X7mIIkA5YwI/rs:fit:860:0:0:0/g:ce/aHR0cDovL3d3dy5p/bXBhd2FyZHMuY29t/LzIwMTQvcG9zdGVy/cy93aGlwbGFzaC5q/cGc",
+      "recommendations": ["La La Land", "Birdman", "Black Swan"]
+    },
+    {
+      "title": "Moonlight",
+      "imageUrl":"https://imgs.search.brave.com/DqJoep-mKEh88JirkmMUeFDg2buGBA3R-xTbIz8eCZE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFSSm5OUWpROEwu/anBn",
+      "recommendations": ["Call Me by Your Name", "Boyhood", "La La Land"]
+    },
+    {
+      "title": "Parasite",
+      "imageUrl":"https://imgs.search.brave.com/qRDWI1mM-_Je40f6JxK702uLR4EaWBXRe4wFd0VuRF8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9maWxt/YXJ0Z2FsbGVyeS5j/b20vY2RuL3Nob3Av/cHJvZHVjdHMvUGFy/YXNpdGUtVmludGFn/ZS1Nb3ZpZS1Qb3N0/ZXItT3JpZ2luYWwt/MS1TaGVldC0yN3g0/MV9iMWRhNzc3Yi03/ZjJiLTQzNDItOGM3/Ni03MzY1MjUyYmZk/MmIuanBnP3Y9MTY2/MzIyMzgyOSZ3aWR0/aD0xMjAw",
+      "recommendations": ["Snowpiercer", "The Host", "Memories of Murder"]
+    },
+    {
+      "title": "The Witch",
+      "imageUrl":"https://imgs.search.brave.com/LhNRvaE7uihvFvz8shu3VFWYMv6myVC9T87uDkxiC2w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzI0LzUx/L2E3LzI0NTFhN2Y4/M2Q5OWMyYjE5ZjQx/YzJkZjI0NzE3OWUx/LmpwZw",
+      "recommendations": ["Hereditary", "It Follows", "The Babadook"]
+    },
+    {
+      "title": "Your Name",
+      "imageUrl":"https://imgs.search.brave.com/iKBEQGiT5dDYWI5TMfrCF3RFITJXRqWzklWVcryOvZY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFCQ0lXRy1XT0wu/anBn",
+      "recommendations": ["A Silent Voice", "Weathering With You", "5 Centimeters Per Second"]
+    },
+    {
+      "title": "The Godfather Part II",
+      "imageUrl":"https://imgs.search.brave.com/vjoQHUTSiV_cj2gHAZZDVmcjr32RtfLiI6beCNsDP18/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFnLUNSQmc4bUwu/anBn",
+      "recommendations": ["The Godfather", "Scarface", "Goodfellas"]
+    },
+    {
+      "title": "Goodfellas",
+      "imageUrl":"https://imgs.search.brave.com/n-YKl_EMiXBM4P8COzVt7LPDZC1fS2PT3xmUdshsFl0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFRS0IyRG9jRkwu/anBn",
+      "recommendations": ["The Godfather", "Casino", "Scarface"]
+    },
+    {
+      "title": "The Departed",
+      "imageUrl":"https://imgs.search.brave.com/RwvzA8oF4f0qiHWXCKSH0bjiIr2koDRLhda9StDuLv0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFKTXNwZEtwQUwu/anBn",
+      "recommendations": ["Goodfellas", "Casino", "Donnie Brasco"]
+    },
+    {
+      "title": "Citizen Kane",
+      "imageUrl":"https://imgs.search.brave.com/gWPbhQljLYdCift62cgYL1RaycaR-pJEqf53u2H_74g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFLdmgtWXZmMEwu/anBn",
+      "recommendations": ["Gone with the Wind", "The Godfather", "Casablanca"]
+    },
+    {
+      "title": "The Intouchables",
+      "imageUrl":"https://imgs.search.brave.com/KIdN6_SZXDUIb6F8nDlIyxLtiuDAxyDmS1Fkl7zPKz0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzcyLzll/LzcxLzcyOWU3MWI5/OTNkNDVjMjVkMjZi/ODI5YWM5ZTg5NDhh/LmpwZw",
+      "recommendations": ["Forrest Gump", "The Pursuit of Happyness", "The Green Mile"]
+    },
+    {
+      "title": "The Pianist",
+      "imageUrl":"https://imgs.search.brave.com/Ii3I3L5vEcSTnfeGJlYA4IsTtF6lD9gWanikowTwlzo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50aGVtb3ZpZWRi/Lm9yZy90L3AvdzIy/MF9hbmRfaDMzMF9m/YWNlLzJoRnZ4Q0NX/clRtQ1l3Znk3eXVt/MEdLUmkzWS5qcGc",
+      "recommendations": ["Schindler's List", "Life is Beautiful", "The Boy in the Striped Pajamas"]
+    },
+    {
+      "title": "The Conjuring",
+      "imageUrl":"https://imgs.search.brave.com/A9jyjSHTYOUaSFk7I2w4tPoaj4Ddg1TpLKS_QcV-ksw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4x/MS5iaWdjb21tZXJj/ZS5jb20vcy15ZHJp/Y3prL2ltYWdlcy9z/dGVuY2lsLzYwOHg2/MDgvcHJvZHVjdHMv/ODY3MzgvODYyOTEv/dGhlX2Nvbmp1cmlu/Z19wb3N0ZXJfYnV5/X29yaWdpbmFsX21v/dmllX3Bvc3RlcnNf/YXRfc3RhcnN0aWxs/c19fNzI5OTRfXzU5/MTk4LjEzOTQ1MTU1/NDEuanBnP2M9Mg",
+      "recommendations": ["Annabelle", "The Nun", "Insidious"]
+    },
+    {
+      "title": "The Dark Knight Returns",
+      "imageUrl":"https://imgs.search.brave.com/VUm0JxH2oNbDibOXCxy9UUI7OA5VAWiIOVpcQ1L5uxE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9maWxt/YXJ0Z2FsbGVyeS5j/b20vY2RuL3Nob3Av/cHJvZHVjdHMvVGhl/LURhcmstS25pZ2h0/LVZpbnRhZ2UtTW92/aWUtUG9zdGVyLU9y/aWdpbmFsLTEtU2hl/ZXQtMjd4NDFfMmM2/ZThiOGYtYjMwOS00/ZGIwLTllZDYtYmI3/YTgzN2M4OGVhLmpw/Zz92PTE2NjU4MTE0/NDQmd2lkdGg9MTIw/MA",
+      "recommendations": ["Batman Begins", "The Dark Knight", "Watchmen"]
+    },
+    {
+      "title": "The Great Gatsby",
+      "imageUrl":"https://imgs.search.brave.com/N5yLyvrqEegeZrqGrbsJfRCmKnv9kXPCdx0CvDD22Is/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFCU2RMSUlPSUwu/anBn",
+      "recommendations": ["Moulin Rouge!", "La La Land", "The Artist"]
+    },
+    {
+      "title": "The Exorcist",
+      "imageUrl":"https://imgs.search.brave.com/8FHDD_yY7k74MJOIZRvvu9pe5ioAKM5t5n-gQG6XOvc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFnaXduMEVZZEwu/anBn",
+      "recommendations": ["The Shining", "Rosemary's Baby", "The Babadook"]
+    },
+    {
+      "title": "The Wolfman",
+      "imageUrl":"https://imgs.search.brave.com/hMQlGJuDFiPMa_5rcfsWkpbuL2MCY5qdk8y_cRxQItg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzI2LzRk/LzM2LzI2NGQzNmYy/MTk4OTI3ZWM0Zjlj/OTg4ZGM1MTEwMDZm/LmpwZw",
+      "recommendations": ["Underworld", "Van Helsing", "The Mummy"]
+    },
+    {
+      "title": "A Beautiful Mind",
+      "imageUrl":"https://imgs.search.brave.com/Xx9vDRJliLHFZT93NENrh1xWm9o7xGaqlsTGJLK1A7c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFQODJ0dFhpSkwu/anBn",
+      "recommendations": ["Good Will Hunting", "The Theory of Everything", "The Pursuit of Happyness"]
+    },
+    {
+      "title": "The Martian",
+      "imageUrl":"https://imgs.search.brave.com/9TJmSE_X3CZMtxTbfjslQi1YreaKHASxeC6rFvT2maA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2Y2LzEx/LzI3L2Y2MTEyN2E1/MmZjY2Y1YzAzNDVj/MjdkNmMwZDBhYTM2/LmpwZw",
+      "recommendations": ["Interstellar", "Gravity", "Apollo 13"]
+    },
+    {
+      "title": "A Quiet Place",
+      "imageUrl":"https://imgs.search.brave.com/aPcPl3bVnoAaxKoBCPbM3iLQp8mX5IsQ94vZbDYdZpg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFTd0dkdysrekwu/anBn",
+      "recommendations": ["Bird Box", "The Road", "Don't Breathe"]
+    },
+    {
+      "title": "Shazam!",
+      "imageUrl":"https://imgs.search.brave.com/c08PO-LO5y76MQ5R6jebaoEqwEY11AuxjrxYIO7u6LU/rs:fit:860:0:0:0/g:ce/aHR0cDovL3d3dy5p/bXBhd2FyZHMuY29t/LzIwMTkvcG9zdGVy/cy9zaGF6YW1fdmVy/My5qcGc",
+      "recommendations": ["Aquaman", "Wonder Woman", "Justice League"]
+    },
+    {
+      "title": "Jaws",
+      "imageUrl":"https://imgs.search.brave.com/rUcH5Tvuodzr4dWTmtkZ6_SHBmt7qo1B92gj8uiCCf0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly92aWNl/LXByZXNzLmNvbS9j/ZG4vc2hvcC9wcm9k/dWN0cy9qYXdzLWFu/ZHJldy1zd2FpbnNv/bi1tb3ZpZS1wb3N0/ZXJfNTQweC5qcGc_/dj0xNjkwOTcxNTY5",
+      "recommendations": ["The Shallows", "Open Water", "The Meg"]
+    },
+    {
+      "title": "E.T. the Extra-Terrestrial",
+      "imageUrl":"https://imgs.search.brave.com/YOYAcU7tYbkvrdD8aRnKy4mIoRepqzUafLcNGgdMwpM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzVjLzcy/LzUxLzVjNzI1MWY5/ZWQ3ZWNkZTAyZjA0/MWUxNTQ1MzJmYjQ5/LmpwZw",
+      "recommendations": ["Close Encounters of the Third Kind", "The Iron Giant", "Super 8"]
+    },
+    {
+      "title": "The Terminator",
+      "imageUrl":"https://imgs.search.brave.com/YwvZgKkYjcN-8hxDPzjMsiCj5tITHGyGaR_ch4l8sis/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzQ1L2Y2/L2EzLzQ1ZjZhM2Q4/Nzg4MzVkZjgwZGJm/OWMyZjlkMWQ5ZmQy/LmpwZw",
+      "recommendations": ["Terminator 2: Judgment Day", "Aliens", "Predator"]
+    },
+    {
+      "title": "The Usual Suspects",
+      "imageUrl":"https://imgs.search.brave.com/Ev9nZe0llREeZJNRLi-4CAX-Dcfs2vdWUUE_Tl-b18M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFBTnk3M3lKdUwu/anBn",
+      "recommendations": ["Se7en", "Fight Club", "Gone Girl"]
+    },
+    {
+      "title": "Léon: The Professional",
+      "imageUrl":"https://imgs.search.brave.com/G2dJvSG6R4Q8DOPvUmXoKrFeLcFOgLttypsLoZtZqkQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2JkLzdl/LzdjL2JkN2U3Y2Q3/NDM3NDhmZDcxMTIw/ZThmZDdiZjk3Nzg5/LmpwZw",
+      "recommendations": ["The Fifth Element", "Pulp Fiction", "Heat"]
+    },
+    {
+      "title": "The Breakfast Club",
+      "imageUrl":"https://imgs.search.brave.com/PnhMfVkAETUjF6ox9DEoQc6tpej30ifdz2RGssqg8Uw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yZW5k/ZXIuZmluZWFydGFt/ZXJpY2EuY29tL2lt/YWdlcy9yZW5kZXJl/ZC9tZWRpdW0vcG9z/dGVyLzUvOC9icmVh/ay9pbWFnZXMvYXJ0/d29ya2ltYWdlcy9t/ZWRpdW0vMy90aGUt/YnJlYWtmYXN0LWNs/dWItbW92aWUtcG9z/dGVyLWpvc2h1YS13/aWxsaWFtcy5qcGc",
+      "recommendations": ["Ferris Bueller's Day Off", "Sixteen Candles", "Clueless"]
+    },
+    {
+      "title": "The Godfather Part III",
+      "imageUrl":"https://imgs.search.brave.com/OIUng8LnQRI1NuGWN1fdzou8yw771JQUzRJ9JojEtDY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFGY3Z5ZUh6Q0wu/anBn",
+      "recommendations": ["The Godfather Part II", "Scarface", "Goodfellas"]
+    },
+    {
+      "title": "The Goonies",
+      "imageUrl":"https://imgs.search.brave.com/VdIBLtLWwS8MPxyR9kKNhIarnFCoegok1XLeMQ0gDvk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzk0LzZl/L2EyLzk0NmVhMjlj/ZDg2YWE4N2UxZTI5/ODk1ZGY3NDVlYzc2/LmpwZw",
+      "recommendations": ["E.T. the Extra-Terrestrial", "Stand by Me", "The Princess Bride"]
+    },
+    {
+      "title": "Good Will Hunting",
+      "imageUrl":"https://imgs.search.brave.com/3qwdJhtp90hSimI7bfmdxXOX20jMP-Hm83iaBYKjyF0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFPVjMtNm4rcEwu/anBn",
+      "recommendations": ["A Beautiful Mind", "Dead Poets Society", "The Theory of Everything"]
+    },
+    {
+      "title": "The Fugitive",
+      "imageUrl":"https://imgs.search.brave.com/W7Wddhdbu5civJdataSox16S2z95fzHP7onD5BwQPs8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFENWJSVENYQUwu/anBn",
+      "recommendations": ["A Few Good Men", "Prisoners", "The Shawshank Redemption"]
+    },
+    {
+      "title": "The Sixth Sense",
+      "imageUrl":"https://imgs.search.brave.com/1mDjpjQzFcHA0SqDqa1X9sBHxRpQ90E8AiBFRkQ44T4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzdjL2Fk/LzRmLzdjYWQ0ZjVm/NmViOWQ5MmViZjY1/Y2ZmY2EzNjA0MjA4/LmpwZw",
+      "recommendations": ["The Others", "The Village", "The Prestige"]
+    }
+  ]
+}

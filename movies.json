@@ -1,0 +1,316 @@
+{
+  "movies": [
+    {
+      "title": "The Shawshank Redemption",
+      "recommendations": ["The Godfather", "The Dark Knight", "Pulp Fiction"]
+    },
+    {
+      "title": "The Godfather",
+      "recommendations": ["The Shawshank Redemption", "Pulp Fiction", "Forrest Gump"]
+    },
+    {
+      "title": "The Dark Knight",
+      "recommendations": ["The Shawshank Redemption", "The Godfather", "Inception"]
+    },
+    {
+      "title": "Pulp Fiction",
+      "recommendations": ["The Shawshank Redemption", "The Dark Knight", "Fight Club"]
+    },
+    {
+      "title": "Forrest Gump",
+      "recommendations": ["The Shawshank Redemption", "The Matrix", "The Godfather"]
+    },
+    {
+      "title": "Inception",
+      "recommendations": ["The Matrix", "Interstellar", "The Dark Knight"]
+    },
+    {
+      "title": "The Matrix",
+      "recommendations": ["Inception", "The Dark Knight", "Interstellar"]
+    },
+    {
+      "title": "Fight Club",
+      "recommendations": ["Pulp Fiction", "The Dark Knight", "American History X"]
+    },
+    {
+      "title": "Interstellar",
+      "recommendations": ["Inception", "The Martian", "Gravity"]
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "recommendations": ["The Two Towers", "The Return of the King", "Harry Potter and the Sorcerer's Stone"]
+    },
+    {
+      "title": "The Lion King",
+      "recommendations": ["Aladdin", "Beauty and the Beast", "Mulan"]
+    },
+    {
+      "title": "Gladiator",
+      "recommendations": ["Braveheart", "300", "Spartacus"]
+    },
+    {
+      "title": "Avengers: Endgame",
+      "recommendations": ["Avengers: Infinity War", "Iron Man", "Captain America: Civil War"]
+    },
+    {
+      "title": "Titanic",
+      "recommendations": ["The Notebook", "Romeo + Juliet", "La La Land"]
+    },
+    {
+      "title": "Schindler's List",
+      "recommendations": ["The Pianist", "The Boy in the Striped Pajamas", "Life is Beautiful"]
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "recommendations": ["Seven", "Zodiac", "Psycho"]
+    },
+    {
+      "title": "The Green Mile",
+      "recommendations": ["Shawshank Redemption", "The Pursuit of Happyness", "Forrest Gump"]
+    },
+    {
+      "title": "Star Wars: A New Hope",
+      "recommendations": ["The Empire Strikes Back", "Return of the Jedi", "Star Wars: The Force Awakens"]
+    },
+    {
+      "title": "Jurassic Park",
+      "recommendations": ["The Lost World: Jurassic Park", "Jurassic World", "King Kong"]
+    },
+    {
+      "title": "The Avengers",
+      "recommendations": ["Iron Man", "Captain America: The Winter Soldier", "Thor"]
+    },
+    {
+      "title": "The Prestige",
+      "recommendations": ["The Illusionist", "Inception", "Memento"]
+    },
+    {
+      "title": "The Departed",
+      "recommendations": ["Goodfellas", "Casino", "Donnie Brasco"]
+    },
+    {
+      "title": "The Dark Knight Rises",
+      "recommendations": ["The Dark Knight", "Batman Begins", "The Avengers"]
+    },
+    {
+      "title": "The Social Network",
+      "recommendations": ["Steve Jobs", "The Founder", "Moneyball"]
+    },
+    {
+      "title": "Blade Runner 2049",
+      "recommendations": ["Blade Runner", "Ex Machina", "Arrival"]
+    },
+    {
+      "title": "The Truman Show",
+      "recommendations": ["Eternal Sunshine of the Spotless Mind", "Inception", "The Matrix"]
+    },
+    {
+      "title": "The Grand Budapest Hotel",
+      "recommendations": ["Moonrise Kingdom", "The Royal Tenenbaums", "Fantastic Mr. Fox"]
+    },
+    {
+      "title": "The Matrix Reloaded",
+      "recommendations": ["The Matrix Revolutions", "Inception", "Equilibrium"]
+    },
+    {
+      "title": "Mad Max: Fury Road",
+      "recommendations": ["Children of Men", "The Road", "Snowpiercer"]
+    },
+    {
+      "title": "The Big Lebowski",
+      "recommendations": ["No Country for Old Men", "Fargo", "Pulp Fiction"]
+    },
+    {
+      "title": "Her",
+      "recommendations": ["Ex Machina", "A.I. Artificial Intelligence", "Eternal Sunshine of the Spotless Mind"]
+    },
+    {
+      "title": "The Revenant",
+      "recommendations": ["The Hateful Eight", "No Country for Old Men", "12 Years a Slave"]
+    },
+    {
+      "title": "The Shining",
+      "recommendations": ["Psycho", "The Sixth Sense", "It Follows"]
+    },
+    {
+      "title": "The Hunger Games",
+      "recommendations": ["Divergent", "Maze Runner", "Battle Royale"]
+    },
+    {
+      "title": "Gone Girl",
+      "recommendations": ["Prisoners", "Zodiac", "Mystic River"]
+    },
+    {
+      "title": "The Wolf of Wall Street",
+      "recommendations": ["American Psycho", "Scarface", "The Social Network"]
+    },
+    {
+      "title": "The Pursuit of Happyness",
+      "recommendations": ["Forrest Gump", "The Blind Side", "A Beautiful Mind"]
+    },
+    {
+      "title": "A Clockwork Orange",
+      "recommendations": ["Fight Club", "American Psycho", "The Machinist"]
+    },
+    {
+      "title": "Fight Club",
+      "recommendations": ["American History X", "Requiem for a Dream", "Trainspotting"]
+    },
+    {
+      "title": "The Princess Bride",
+      "recommendations": ["The Goonies", "Labyrinth", "The Dark Crystal"]
+    },
+    {
+      "title": "The Fifth Element",
+      "recommendations": ["Blade Runner", "Star Wars", "The Matrix"]
+    },
+    {
+      "title": "The Incredibles",
+      "recommendations": ["Spider-Man: Into the Spider-Verse", "Big Hero 6", "Shrek"]
+    },
+    {
+      "title": "Memento",
+      "recommendations": ["The Prestige", "Inception", "Shutter Island"]
+    },
+    {
+      "title": "Star Wars: The Empire Strikes Back",
+      "recommendations": ["Return of the Jedi", "A New Hope", "Rogue One"]
+    },
+    {
+      "title": "Shutter Island",
+      "recommendations": ["Inception", "The Sixth Sense", "Gone Girl"]
+    },
+    {
+      "title": "The Secret Life of Walter Mitty",
+      "recommendations": ["Into the Wild", "The Way Way Back", "A Beautiful Mind"]
+    },
+    {
+      "title": "The Big Short",
+      "recommendations": ["Margin Call", "Inside Job", "The Wolf of Wall Street"]
+    },
+    {
+      "title": "Whiplash",
+      "recommendations": ["La La Land", "Birdman", "Black Swan"]
+    },
+    {
+      "title": "Moonlight",
+      "recommendations": ["Call Me by Your Name", "Boyhood", "La La Land"]
+    },
+    {
+      "title": "Parasite",
+      "recommendations": ["Snowpiercer", "The Host", "Memories of Murder"]
+    },
+    {
+      "title": "The Witch",
+      "recommendations": ["Hereditary", "It Follows", "The Babadook"]
+    },
+    {
+      "title": "Your Name",
+      "recommendations": ["A Silent Voice", "Weathering With You", "5 Centimeters Per Second"]
+    },
+    {
+      "title": "The Godfather Part II",
+      "recommendations": ["The Godfather", "Scarface", "Goodfellas"]
+    },
+    {
+      "title": "Goodfellas",
+      "recommendations": ["The Godfather", "Casino", "Scarface"]
+    },
+    {
+      "title": "The Departed",
+      "recommendations": ["Goodfellas", "Casino", "Donnie Brasco"]
+    },
+    {
+      "title": "Citizen Kane",
+      "recommendations": ["Gone with the Wind", "The Godfather", "Casablanca"]
+    },
+    {
+      "title": "The Intouchables",
+      "recommendations": ["Forrest Gump", "The Pursuit of Happyness", "The Green Mile"]
+    },
+    {
+      "title": "The Pianist",
+      "recommendations": ["Schindler's List", "Life is Beautiful", "The Boy in the Striped Pajamas"]
+    },
+    {
+      "title": "The Conjuring",
+      "recommendations": ["Annabelle", "The Nun", "Insidious"]
+    },
+    {
+      "title": "The Dark Knight Returns",
+      "recommendations": ["Batman Begins", "The Dark Knight", "Watchmen"]
+    },
+    {
+      "title": "The Great Gatsby",
+      "recommendations": ["Moulin Rouge!", "La La Land", "The Artist"]
+    },
+    {
+      "title": "The Exorcist",
+      "recommendations": ["The Shining", "Rosemary's Baby", "The Babadook"]
+    },
+    {
+      "title": "The Wolfman",
+      "recommendations": ["Underworld", "Van Helsing", "The Mummy"]
+    },
+    {
+      "title": "A Beautiful Mind",
+      "recommendations": ["Good Will Hunting", "The Theory of Everything", "The Pursuit of Happyness"]
+    },
+    {
+      "title": "The Martian",
+      "recommendations": ["Interstellar", "Gravity", "Apollo 13"]
+    },
+    {
+      "title": "A Quiet Place",
+      "recommendations": ["Bird Box", "The Road", "Don't Breathe"]
+    },
+    {
+      "title": "Shazam!",
+      "recommendations": ["Aquaman", "Wonder Woman", "Justice League"]
+    },
+    {
+      "title": "Jaws",
+      "recommendations": ["The Shallows", "Open Water", "The Meg"]
+    },
+    {
+      "title": "E.T. the Extra-Terrestrial",
+      "recommendations": ["Close Encounters of the Third Kind", "The Iron Giant", "Super 8"]
+    },
+    {
+      "title": "The Terminator",
+      "recommendations": ["Terminator 2: Judgment Day", "Aliens", "Predator"]
+    },
+    {
+      "title": "The Usual Suspects",
+      "recommendations": ["Se7en", "Fight Club", "Gone Girl"]
+    },
+    {
+      "title": "Léon: The Professional",
+      "recommendations": ["The Fifth Element", "Pulp Fiction", "Heat"]
+    },
+    {
+      "title": "The Breakfast Club",
+      "recommendations": ["Ferris Bueller's Day Off", "Sixteen Candles", "Clueless"]
+    },
+    {
+      "title": "The Godfather Part III",
+      "recommendations": ["The Godfather Part II", "Scarface", "Goodfellas"]
+    },
+    {
+      "title": "The Goonies",
+      "recommendations": ["E.T. the Extra-Terrestrial", "Stand by Me", "The Princess Bride"]
+    },
+    {
+      "title": "Good Will Hunting",
+      "recommendations": ["A Beautiful Mind", "Dead Poets Society", "The Theory of Everything"]
+    },
+    {
+      "title": "The Fugitive",
+      "recommendations": ["A Few Good Men", "Prisoners", "The Shawshank Redemption"]
+    },
+    {
+      "title": "The Sixth Sense",
+      "recommendations": ["The Others", "The Village", "The Prestige"]
+    }
+  ]
+}
